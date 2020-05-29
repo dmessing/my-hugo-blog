@@ -15,9 +15,9 @@ googleAnalytics = "UA-167913852-1"
 [params]
 title = "Mess's Musings"
 author = "David Messinger"
-description = "Call me Mess"
+description = "My First Blog, take it easy on me ;)"
 profilePicture = "images/profile.jpg"
-keywords = ""
+keywords = "technology, crowdsourcing, future of work"
 favicon = "favicons/"
 customCss = []
 mainSections = ["post"]
@@ -74,3 +74,9 @@ url = "https://twitter.com/dmessing"
   weight = 300
   identifier = "about"
   url = "/about/"
+
+##  [[menu.main]]
+## name = "Resume"
+## weight = 300
+## identifier = "resume"
+## url = "/resume/"
