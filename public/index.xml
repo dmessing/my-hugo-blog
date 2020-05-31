@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mess&#39;s Musings</title>
+    <link>https://davemessinger.com:1313/</link>
+    <description>Recent content on Mess&#39;s Musings</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 20 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://davemessinger.com:1313/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Reading during Lockdown</title>
+      <link>https://davemessinger.com:1313/post/quarantine-books/</link>
+      <pubDate>Fri, 29 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://davemessinger.com:1313/post/quarantine-books/</guid>
+      <description>&lt;p&gt;We have all had a lot of time to at home during quarantine.  It has given me a chance to read more and listen to audiobooks.  These are the best one&amp;rsquo;s I&amp;rsquo;ve been reading.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://davemessinger.com:1313/about/</link>
+      <pubDate>Wed, 20 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://davemessinger.com:1313/about/</guid>
+      <description>Dave Messinger is the Chief Technologist at Topcoder, where he is in charge of all crowdsourcing products and technology.</description>
+    </item>
+    
+  </channel>
+</rss>

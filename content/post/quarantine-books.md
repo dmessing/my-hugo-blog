@@ -25,8 +25,8 @@ Links are to Amazon out of ease to link to the books.
 
 * [Ride of a Lifetime]
 * [Thinking in Bets]
-* FREE: The Future of Radical
-* Competing in the AGE of AI
+* [FREE: The Future of Radical]
+* [Competing in the AGE of AI]
 * [The “Jobs to be Done” Theory of Innovation](https://hbr.org/podcast/2016/12/the-jobs-to-be-done-theory-of-innovation) HBR Ideacast with Clayton Christensen
 
 ## Fun Books
