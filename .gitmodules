@@ -4,7 +4,3 @@
 [submodule "themes/anatole"]
 	path = themes/anatole
 	url = https://github.com/lxndrblz/anatole.git
-[submodule "piblic"]
-	path = piblic
-	url = https://github.com/dmessing/blog.git
-	branch = master
