@@ -14,11 +14,14 @@ This is just a simple list of links by day I want to get back to or find again o
 Work
 * [Why Do We Have Dev Rels Now](https://zwischenzugs.com/2020/07/13/why-do-we-have-dev-rels-now/)
 * [Five common mistakes writing react components (with hooks) in 2020](https://www.lorenzweiss.de/common_mistakes_react_hooks/)
+
+Interesting Tech
 * [React Spectrum](https://react-spectrum.adobe.com/react-spectrum/)
-* (dvc.org)[https://dvc.org/] - Open-source Version Control System for Machine Learning Projects
+* [dvc.org](https://dvc.org/) - Open-source Version Control System for Machine Learning Projects
 
 Fun
 * [How to broadcast to Twitch and Zoom with OBS]( https://tech.paulcz.net/blog/obs-broadcast-to-zoom-and-twitch/)
+* [GitHub profile readme generator](https://dev.to/arturssmirnovs/github-profile-readme-generator-m53?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
 
 Interesting
 * [How Costco Convinces Brands to Cannibalize Themselves](https://napkinmath.substack.com/p/how-costco-convinces-brands-to-cannibalize)

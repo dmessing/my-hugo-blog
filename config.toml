@@ -5,7 +5,8 @@ title = "Mess's Musings"
 theme = "anatole"
 summarylength = 10
 enableEmoji = true
-publishDir =  "../temp-blog/"
+#publishDir =  "../temp-blog/"
+publishDir = "public"
 
 
 # Enable Disqus
