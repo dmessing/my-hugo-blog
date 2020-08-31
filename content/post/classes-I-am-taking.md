@@ -5,6 +5,7 @@ Description: "Classes worked on during quarantine"
 Tags: [learning, training, education]
 Categories: [coding]
 DisableComments: false
+draft: false
 ---
 
 Courses

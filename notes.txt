@@ -1,0 +1,3 @@
+sample command to post new blog post: hugo new post/classes-I-am-taking.md
+
+view markdown in vscode press ⇧⌘V in the editor

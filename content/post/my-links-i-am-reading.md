@@ -21,8 +21,10 @@ Interesting Tech
 
 Fun
 * [How to broadcast to Twitch and Zoom with OBS]( https://tech.paulcz.net/blog/obs-broadcast-to-zoom-and-twitch/)
+* [Streamyard](https://streamyard.com/)
 * [GitHub profile readme generator](https://dev.to/arturssmirnovs/github-profile-readme-generator-m53?utm_source=digest_mailer&utm_medium=email&utm_campaign=digest_email)
-
+* [Designing scalable API on AWS spot instances](https://blog.adapty.io/designing-scalable-api-on-aws-stop-instance/)
+* https://medium.com/@capuccino/revive-your-cr-48-install-any-os-on-the-fabled-chromebook-b17a763654d9
 Interesting
 * [How Costco Convinces Brands to Cannibalize Themselves](https://napkinmath.substack.com/p/how-costco-convinces-brands-to-cannibalize)
 * [Mac is moving to Apple Silicon - not ARM](https://www.imore.com/mac-moving-apple-silicon-not-arm)
