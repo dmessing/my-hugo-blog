@@ -13,3 +13,5 @@ Courses
 - It was about time I learned React so I signed up for [React Redux on Udemy](https://www.udemy.com/course/react-redux/)
 
 - Fast.ai also released a new class, [Practical Deep Learning for Coders](https://course.fast.ai/) for free I'm excited to take the class
+
+- [Introduction to Serverless on Kubernetes](https://www.edx.org/course/introduction-to-serverless-on-kubernetes)
